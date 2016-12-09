@@ -2,3 +2,4 @@
 module.exports = {
 
 };
+var PostModel = require('../models/PostModel.js');
